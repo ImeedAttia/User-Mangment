@@ -1,7 +1,8 @@
 # Employee Management App using Flutter and Firebase
 
 This Flutter application allows you to efficiently manage your employees using Firebase as the real-time database and authentication provider. Whether you're a small business owner or an HR manager, this app simplifies employee management tasks.
-Full description :  [Link]([https://console.firebase.google.com/](https://sites.google.com/view/attia-imed-portfolio/projets/user-mangment)
+
+Full description :  [Link](https://sites.google.com/view/attia-imed-portfolio/projets/user-mangment)
 
 ## Features
 
